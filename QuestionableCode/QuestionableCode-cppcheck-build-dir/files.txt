@@ -1,0 +1,4 @@
+QuestionableCode.a1:Debug|Win32:C:/Users/hanso/source/repos/QuestionableCode/QuestionableCode.cpp
+QuestionableCode.a2:Release|Win32:C:/Users/hanso/source/repos/QuestionableCode/QuestionableCode.cpp
+QuestionableCode.a3:Debug|x64:C:/Users/hanso/source/repos/QuestionableCode/QuestionableCode.cpp
+QuestionableCode.a4:Release|x64:C:/Users/hanso/source/repos/QuestionableCode/QuestionableCode.cpp
